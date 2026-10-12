@@ -1,0 +1,24 @@
+﻿order_profile_key,type,order_status,delivery_status
+1,CASH,CLOSED,Advance shipping
+2,CASH,CLOSED,Late delivery
+3,CASH,CLOSED,Shipping on time
+4,DEBIT,COMPLETE,Advance shipping
+5,DEBIT,COMPLETE,Late delivery
+6,DEBIT,COMPLETE,Shipping on time
+7,DEBIT,ON_HOLD,Advance shipping
+8,DEBIT,ON_HOLD,Late delivery
+9,DEBIT,ON_HOLD,Shipping on time
+10,PAYMENT,PAYMENT_REVIEW,Advance shipping
+11,PAYMENT,PAYMENT_REVIEW,Late delivery
+12,PAYMENT,PAYMENT_REVIEW,Shipping on time
+13,PAYMENT,PENDING_PAYMENT,Advance shipping
+14,PAYMENT,PENDING_PAYMENT,Late delivery
+15,PAYMENT,PENDING_PAYMENT,Shipping on time
+16,TRANSFER,CANCELED,Shipping canceled
+17,TRANSFER,PENDING,Advance shipping
+18,TRANSFER,PENDING,Late delivery
+19,TRANSFER,PENDING,Shipping on time
+20,TRANSFER,PROCESSING,Advance shipping
+21,TRANSFER,PROCESSING,Late delivery
+22,TRANSFER,PROCESSING,Shipping on time
+23,TRANSFER,SUSPECTED_FRAUD,Shipping canceled
